@@ -131,6 +131,9 @@ export const API_URL = "http://localhost:5000/api";
 
 ---
 
+#**Use your mongodb atlas url --update it at server.js**
+
+#**Use your cloudinary details at- server/helpers/cloudinary.js**
 
 
 
